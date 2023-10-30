@@ -1,3 +1,9 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/tygutowski/heapheaphooray-website.git
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/kiwi515/mjcc.git
+[submodule "jabberwocky"]
+	path = jabberwocky
+	url = https://github.com/Kippiii/jabberwocky-container-manager.git
